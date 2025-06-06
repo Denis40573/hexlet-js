@@ -14,8 +14,12 @@
   "author": "Денис Пряхин",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Denis40573/hexlet-js/issues"
+    "url": "https://github.com/Denis40573/hexlet-js/issues",
     "E-mail": "priahind@list.ru"
   },
-  "homepage": "https://github.com/Denis40573/hexlet-js#readme"
+  "homepage": "https://github.com/Denis40573/hexlet-js#readme",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
 }
